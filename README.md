@@ -1,2 +1,0 @@
-# zettelkasten-vault-
-Storing knowledge
