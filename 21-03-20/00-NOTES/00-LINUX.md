@@ -1,0 +1,6 @@
+# [[command shell]]
+# [[vim]]
+# [[shell scripts]]
+# [[linux file system]]
+# [[arch]]
+# [[tmux]]
